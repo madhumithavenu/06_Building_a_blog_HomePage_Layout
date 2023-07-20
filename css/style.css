@@ -206,7 +206,6 @@ img {
 .footer ul li a:hover {
     text-decoration: underline;
 }
-
 .social-nav {
     display: flex;
     justify-content: center;
